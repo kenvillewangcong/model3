@@ -29,3 +29,6 @@ http://localhost:8080/work/handler04?username=zhangsan 我是handler04，Control
 技术要求：根据SSM整合的思路，进行SSS整合（Spring+SpringMVC+SpringDataJPA）,登录验证使用SpringMVC拦截器实现
 
 【提交时统一数据库名test，用户名和密码root】
+
+[http://localhost:8080](http://localhost:8080/)
+
